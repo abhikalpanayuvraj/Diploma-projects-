@@ -1,0 +1,6 @@
+Arduino Nano <br>
+Chip: MPU-6050 <br>
+Power supply: 3~5V <br>
+Communication mode: standard IIC communication protocol <br>
+Chip built-in 16bit AD converter, 16bit data output <br>
+Gyroscopes range: +/- 250 500 1000 2000 degree/sec
